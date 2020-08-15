@@ -9,7 +9,7 @@
 - 🏫 I am a High School Student.
 - 🖥️ I love working with machine learning and training my own models. 
 - 🧤 I'm currently volunteering on teaching other's to code.
-- <img align="left" alt="DMA | DMA" width="40px" src="https://res.cloudinary.com/ourkids/image/upload/w_200,h_200,c_fit/v1574362663/camp/logo/613_logo.jpg" /> I've participated in DMA camps and have met people there.
+- <img align="left" alt="DMA | DMA" width="20px" src="https://res.cloudinary.com/ourkids/image/upload/w_200,h_200,c_fit/v1574362663/camp/logo/613_logo.jpg" /> I've participated in DMA camps and have met people there.
 - ❓ Ask me anything [here]
 
 
