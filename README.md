@@ -52,7 +52,7 @@ Cool stats
 ```
 
 <img align="left" alt="Visual Studio Code" width="450px" src="https://github-readme-stats.vercel.app/api?username=Weezity&show_icons=true&theme=dark" />
-<img  align= "right" alt="Visual Studio Code" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weezity&layout=compact&theme=dark" />
+<img  align= "right" alt="Visual Studio Code" width="390px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weezity&layout=compact&theme=dark" />
 
 
 
