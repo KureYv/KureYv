@@ -1,4 +1,4 @@
-# I'm Matthew - aka **Weezity** 👋
+# I'm Matthew - aka **[Weezity]** 👋
 
 
 
@@ -68,4 +68,5 @@ I started to program a year ago, pretty glad to see myself being able to progres
 [gmail]: mailto:matthewlee031205@gmail.com
 [here]: https://github.com/Weezity/Questions/issues
 [spotify]: https://open.spotify.com/user/12133351920
+[Weezity]: https://matthewl.xyz
 
