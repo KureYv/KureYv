@@ -51,7 +51,7 @@
 
 
 <pre>
-I started to program a year ago, pretty glad to see myself being able to progress so far. Last year I was still in Hong Kong where I had never even touched a single line of code. I enjoy programming a lot, it gives me challenges that I can think about for a whole day to keep me occupied. I wish to nurture this hobby of mine and one day turn it into a successful career.
+Programmed a year ago, progressed pretty far tbh.
 </pre>
 
 <img align="left" alt="Visual Studio Code" width="410px" src="https://github-readme-stats.vercel.app/api?username=Weezity&show_icons=true&theme=dark" />
