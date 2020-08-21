@@ -51,7 +51,7 @@
 
 
 <pre>
-Programmed a year ago, progressed pretty far tbh.
+Started programmed a year ago, progressed pretty far tbh. 😊
 </pre>
 
 <img align="left" alt="Visual Studio Code" width="410px" src="https://github-readme-stats.vercel.app/api?username=Weezity&show_icons=true&theme=dark" />
