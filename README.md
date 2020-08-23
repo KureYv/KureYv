@@ -1,71 +1,45 @@
-# I'm Matthew - aka **[Weezity]** 👋
+## Hi there, I'm [Matthew!](https://www.matthewl.xyz) 👋
+
+### I'm a ...
+- 🌎 High School student Unionville High School
+- 🔌 VRC <img align="center" alt="Vex Robotics" height = "16px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/vex.png"> and FRC <img align="center" alt="First Robotics" height = "16px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/first.jpg"> Participant
+- 💻 (possible) (hopefully) (future) Computer Science student
+- ✨ VR enthusiast, Robotics enthusiast
+- 📓 Currently learning about motion profiling
+- 💬 Ask me anything [Here](https://github.com/Ynng/Ynng/issues)
+
+----
+
+### Cool Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Ynng&count_private=true&theme=dark)
+
+----
+
+### What I'm working on right now
+
+<a href="https://github.com/psarahdactyl/libigl-vr-viewer-version">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=psarahdactyl&repo=libigl-vr-viewer-version&theme=dark" />
+</a>
+<a href="https://github.com/Ynng/NetEase-Cloud-Music-DiscordRPC">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Ynng&repo=NetEase-Cloud-Music-DiscordRPC&theme=dark" />
+</a>
 
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
+----
 
-#### Info
-
-
-- 🏫&nbsp;&nbsp;&nbsp;&nbsp; I am a High School Student.
-- 🖥️&nbsp;&nbsp;&nbsp;&nbsp; I love working with machine learning and training my own models. 
-- 🧤&nbsp;&nbsp;&nbsp;&nbsp; I'm currently volunteering on teaching other's to code.
-- <img align="left" alt="DMA | DMA" width="25px" src="https://res.cloudinary.com/ourkids/image/upload/w_200,h_200,c_fit/v1574362663/camp/logo/613_logo.jpg"/>I've participated in DMA camps and have met people there.
-
-- ❓ &nbsp;&nbsp;&nbsp;&nbsp;Ask me anything [here]
-
-
-
-
----
-
-#### Connect with me:
-
-
-[<img align="left" alt="Gmail | Gmail" width="40px" src="https://img.icons8.com/fluent/96/000000/gmail.png" />][gmail]
-[<img align="left" alt="Spotify | Spotify" width="40px" src="https://img.icons8.com/color/96/000000/spotify--v1.png" />][spotify]
-
-
-<br />
-
----
-
-#### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-
-
-
-
-<br />
-
-
----
-
-
-# 📈Statistics 
-
-
-<pre>
-Started programmed a year ago, progressed pretty far tbh. 😊
-</pre>
-
-<img align="left" alt="Visual Studio Code" width="410px" src="https://github-readme-stats.vercel.app/api?username=Weezity&show_icons=true&theme=dark" />
-<img  align= "right" alt="Visual Studio Code" width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weezity&layout=compact&theme=dark" />
-
-
-
-
-
-
-
-
-
-[gmail]: mailto:matthewlee031205@gmail.com
-[here]: https://github.com/Weezity/Questions/issues
-[spotify]: https://open.spotify.com/user/12133351920
-[Weezity]: https://matthewl.xyz
-
+### Find me elsewhere:
+[<img align="left" alt="DMOJ Link" height = "24px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/dmoj.png">](https://dmoj.ca/user/Ynng11626)
+[<img align="left" alt="Youtube Link" height = "24px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/youtube.png">](https://www.youtube.com/channel/UC5qAOjtSdCkPEy1BUM78ruw?view_as=subscriber)
+[<img align="left" alt="Steam Link" height = "24px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/steam.png">](https://steamcommunity.com/id/Ynnnng/)
+[<img align="left" alt="Gmail" height = "24px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/gmail.png">](mailto:kh.kevinhuang.03@gmail.com)
+[<img align="left" alt="LinkedIn Link" height = "24px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/linkedin.png">](https://www.linkedin.com/in/kevin-huang-b67b9817a/)
+[<img align="left" alt="Instagram Link" height = "24px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/instagram.png">](https://www.instagram.com/_ynng_/)
+[<img align="left" alt="Anilist Link" height = "24px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/anilist.png">](https://anilist.co/user/Ynng/)
