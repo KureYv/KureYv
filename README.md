@@ -32,10 +32,10 @@
 ### Current Projects
 
 <a href="https://github.com/Weezity/Semantic_API">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=psarahdactyl&repo=libigl-vr-viewer-version&theme=dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Weezity&repo=Semantic_API&theme=dark" />
 </a>
 <a href="https://github.com/Weezity/Covdiction">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Ynng&repo=NetEase-Cloud-Music-DiscordRPC&theme=dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Weezity&repo=Covdiction&theme=dark" />
 </a>
 
 
