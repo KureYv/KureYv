@@ -1,4 +1,4 @@
-## Hi there, I'm [Matthew!](https://www.matthewl.xyz) 👋
+## Hi there, I'm [Matthew!](http://matthewl.xyz) 👋
 
 ### I'm a ...
 - <img align="center" alt="UHS" height = "30px" src = "https://raw.githubusercontent.com/Weezity/Weezity/master/Unionville.png">  High School student Unionville High School
