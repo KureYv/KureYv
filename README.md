@@ -4,6 +4,8 @@
 - <img align="center" alt="UHS" height = "30px" src = "https://raw.githubusercontent.com/Weezity/Weezity/master/Unionville.png">  High School student Unionville High School
 - <img align="center" alt="Code Club" height = "30px" src = "https://raw.githubusercontent.com/Weezity/Weezity/master/CC.png"> Code Club Instructor/Leader
 - <img align="center" alt="DMA" height = "30px" src = "https://raw.githubusercontent.com/Weezity/Weezity/master/DMA.png"> Digital Media Academy (DMA) participant
+<br/>
+
 - 💻 Webapp/ Full stack Development enthusiast | 🤖 Machine Learning/ Data science 
 - 📜 Started programming 2019 Summer, progressed a lot, shows how dedication brings you places!
 - 💬 Issues or problems go [here](https://github.com/Weezity/Weezity/issues)
