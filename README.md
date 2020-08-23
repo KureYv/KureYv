@@ -16,6 +16,8 @@
 [<img align="left" alt="Gmail" height = "24px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/gmail.png">](mailto:kh.kevinhuang.03@gmail.com)
 [<img align="left" alt="LinkedIn Link" height = "24px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/linkedin.png">](https://www.linkedin.com/in/kevin-huang-b67b9817a/)
 
+<br/>
+
 ----
 
 ### Github Stats
@@ -47,5 +49,3 @@
 ----
 
 
-[<img align="left" alt="Instagram Link" height = "24px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/instagram.png">](https://www.instagram.com/_ynng_/)
-[<img align="left" alt="Anilist Link" height = "24px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/anilist.png">](https://anilist.co/user/Ynng/)
