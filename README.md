@@ -1,6 +1,6 @@
 ## Hi there, I'm [Matthew!](http://matthewl.xyz) 
 
-### I'm a ...
+### Info about me
 - <img align="center" alt="UHS" height = "30px" src = "https://raw.githubusercontent.com/Weezity/Weezity/master/Unionville.png">  High School student Unionville High School
 - <img align="center" alt="UHS" height = "30px" src = "https://raw.githubusercontent.com/Weezity/Weezity/master/CC.png"> Code Club Instructor/Leader
 - <img align="center" alt="UHS" height = "30px" src = "https://raw.githubusercontent.com/Weezity/Weezity/master/CC.png"> Digital Media Academy participant
