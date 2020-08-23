@@ -1,6 +1,6 @@
 ## Hi there, I'm [Matthew!](http://matthewl.xyz) 
 
-### Info about me
+### Info About Me
 - <img align="center" alt="UHS" height = "30px" src = "https://raw.githubusercontent.com/Weezity/Weezity/master/Unionville.png">  High School student Unionville High School
 - <img align="center" alt="Code Club" height = "30px" src = "https://raw.githubusercontent.com/Weezity/Weezity/master/CC.png"> Code Club Instructor/Leader
 - <img align="center" alt="DMA" height = "30px" src = "https://raw.githubusercontent.com/Weezity/Weezity/master/DMA.png"> Digital Media Academy (DMA) participant
@@ -12,16 +12,18 @@
 ### Github Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Weezity&count_private=true&theme=dark)
+
 ----
-### My top Languages
+### My Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weezity&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Projects I'm 
+----
+### Current Projects
 
-<a href="https://github.com/psarahdactyl/libigl-vr-viewer-version">
+<a href="https://github.com/Weezity/Semantic_API">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=psarahdactyl&repo=libigl-vr-viewer-version&theme=dark" />
 </a>
-<a href="https://github.com/Ynng/NetEase-Cloud-Music-DiscordRPC">
+<a href="https://github.com/Weezity/Covdiction">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Ynng&repo=NetEase-Cloud-Music-DiscordRPC&theme=dark" />
 </a>
 
