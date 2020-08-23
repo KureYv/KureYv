@@ -2,7 +2,7 @@
 
 ### I'm a ...
 - <img align="center" alt="UHS" height = "30px" src = "https://raw.githubusercontent.com/Weezity/Weezity/master/Unionville.png">  High School student Unionville High School
-- Code Club Instructor/Leader
+- <img align="center" alt="UHS" height = "30px" src = "https://raw.githubusercontent.com/Weezity/Weezity/master/CC.png"> Code Club Instructor/Leader
 - 💻 (possible) (hopefully) (future) Computer Science student
 - ✨ VR enthusiast, Robotics enthusiast
 - 📓 Currently learning about motion profiling
