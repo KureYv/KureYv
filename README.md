@@ -3,10 +3,9 @@
 ### I'm a ...
 - <img align="center" alt="UHS" height = "30px" src = "https://raw.githubusercontent.com/Weezity/Weezity/master/Unionville.png">  High School student Unionville High School
 - <img align="center" alt="UHS" height = "30px" src = "https://raw.githubusercontent.com/Weezity/Weezity/master/CC.png"> Code Club Instructor/Leader
-- 💻 (possible) (hopefully) (future) Computer Science student
-- ✨ VR enthusiast, Robotics enthusiast
-- 📓 Currently learning about motion profiling
-- 💬 Ask me anything [Here](https://github.com/Ynng/Ynng/issues)
+- <img align="center" alt="UHS" height = "30px" src = "https://raw.githubusercontent.com/Weezity/Weezity/master/CC.png"> Digital Media Academy participant
+- 💻 Webapp/ Full stack Development enthusiast | 🤖 Machine Learning/ Data science 
+- 💬 Questions go here  [Here](https://github.com/Weezity/Weezity/issues)
 
 ----
 
