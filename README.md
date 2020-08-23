@@ -1,7 +1,7 @@
 ## Hi there, I'm [Matthew!](https://www.matthewl.xyz) 👋
 
 ### I'm a ...
-- <img align="center" alt="UHS" height = "16px" src = "https://raw.githubusercontent.com/Weezity/Weezity/Unionville.png">  High School student Unionville High School
+- <img align="center" alt="UHS" height = "16px" src = "https://raw.githubusercontent.com/Weezity/Weezity/master/Unionville.png">  High School student Unionville High School
 - 🔌 VRC <img align="center" alt="Vex Robotics" height = "16px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/vex.png"> and FRC <img align="center" alt="First Robotics" height = "16px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/first.jpg"> Participant
 - 💻 (possible) (hopefully) (future) Computer Science student
 - ✨ VR enthusiast, Robotics enthusiast
