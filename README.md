@@ -2,8 +2,8 @@
 
 ### Info about me
 - <img align="center" alt="UHS" height = "30px" src = "https://raw.githubusercontent.com/Weezity/Weezity/master/Unionville.png">  High School student Unionville High School
-- <img align="center" alt="UHS" height = "30px" src = "https://raw.githubusercontent.com/Weezity/Weezity/master/CC.png"> Code Club Instructor/Leader
-- <img align="center" alt="UHS" height = "30px" src = "https://raw.githubusercontent.com/Weezity/Weezity/master/CC.png"> Digital Media Academy participant
+- <img align="center" alt="Code Club" height = "30px" src = "https://raw.githubusercontent.com/Weezity/Weezity/master/CC.png"> Code Club Instructor/Leader
+- <img align="center" alt="DMA" height = "30px" src = "https://raw.githubusercontent.com/Weezity/Weezity/master/DMA.png"> Digital Media Academy (DMA) participant
 - 💻 Webapp/ Full stack Development enthusiast | 🤖 Machine Learning/ Data science 
 - 💬 Questions go here  [Here](https://github.com/Weezity/Weezity/issues)
 
