@@ -10,11 +10,9 @@
 ----
 
 ### Connect with me:
-[<img align="left" alt="LinkedIn" height = "24px" src = "https://raw.githubusercontent.com/Weezity/Weezity/master/linkedin.png">](https://dmoj.ca/user/Ynng11626)
-[<img align="left" alt="Youtube Link" height = "50px" src = "https://raw.githubusercontent.com/Weezity/Weezity/master/codeforces.png">](https://www.youtube.com/channel/UC5qAOjtSdCkPEy1BUM78ruw?view_as=subscriber)
-[<img align="left" alt="Steam Link" height = "24px" src = "https://raw.githubusercontent.com/Weezity/Weezity/master/gmail.png">](https://steamcommunity.com/id/Ynnnng/)
-[<img align="left" alt="Gmail" height = "24px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/gmail.png">](mailto:kh.kevinhuang.03@gmail.com)
-[<img align="left" alt="LinkedIn Link" height = "24px" src = "https://raw.githubusercontent.com/Ynng/Ynng/master/linkedin.png">](https://www.linkedin.com/in/kevin-huang-b67b9817a/)
+[<img align="left" alt="LinkedIn" height = "24px" src = "https://raw.githubusercontent.com/Weezity/Weezity/master/linkedin.png">](https://www.linkedin.com/in/lee-chun-kit-637515168/)
+[<img align="left" alt="Gmail" height = "24px" src = "https://raw.githubusercontent.com/Weezity/Weezity/master/gmail.png">](mailto:matthewlee031205@gmail.com/)
+[<img align="left" alt="Instagram" height = "24px" src = "https://raw.githubusercontent.com/Weezity/Weezity/master/insta.png">](https://www.linkedin.com/in/kevin-huang-b67b9817a/)
 
 <br/>
 
