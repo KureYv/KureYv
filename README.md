@@ -7,7 +7,7 @@
 <br/>
 
 - 💻 Webapp/ Full stack Development enthusiast | 🤖 Machine Learning/ Data science 
-- 📜 Started programming 2019 Summer, progressed a lot, shows how dedication brings you places!
+- 📜 Fun fact: Dedication brings you places, I started programming in 2019 Summer ☀ and ended up here, I started with 0 knowledge. Not to say I've improved a lot but I've learned a lot.
 - 💬 Issues or problems go [here](https://github.com/Weezity/Weezity/issues)
 
 ----
