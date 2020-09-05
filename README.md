@@ -6,7 +6,7 @@
 - <img align="center" alt="DMA" height = "30px" src = "https://raw.githubusercontent.com/Weezity/Weezity/master/DMA.png"> Digital Media Academy (DMA) participant
 <br/>
 
-- 💻 Webapp/ Full stack Development enthusiast | 🤖 Machine Learning/ Data science 
+- 💻 Webapp/ Full stack Development | 🤖 Machine Learning/ 📊 Data science 
 - 📜 Fun fact: Dedication brings you places, I started programming in 2019 Summer ☀ with 0 knowledge in coding.
 - 💬 Issues or problems go [here](https://github.com/Weezity/Weezity/issues)
 
