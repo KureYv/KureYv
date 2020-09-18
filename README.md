@@ -8,7 +8,7 @@
 
 - 💻 Webapp/ Full stack Development | 🤖 Machine Learning/ 📊 Data science 
 - 📜 Fun fact: Dedication brings you places, I started programming in 2019 Summer ☀ with 0 knowledge in coding.
-- 💬 Issues or problems go [here](https://support.github.com/contact/feedback?category=profile&subject=Profile+README)
+- 💬 Issues or problems go [here](https://github.com/Weezity/Weezity/issues)
 
 ----
 
