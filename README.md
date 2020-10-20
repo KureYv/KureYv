@@ -1,4 +1,4 @@
-## My name is [Matthew](http://matthewl.xyz) <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">!
+## My name is [Matthew](http://matthewl.xyz)! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">!
 
 ### Info About Me
 - <img align="center" alt="UHS" height = "30px" src = "https://raw.githubusercontent.com/Weezity/Weezity/master/Unionville.png">  High School student Unionville High School
