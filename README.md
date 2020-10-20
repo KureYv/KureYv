@@ -23,6 +23,19 @@
 
 ----
 
+### Languages and Tools: 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/java.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/pycharm.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/jupyter.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/intellij-idea.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
+
+----
+
+
 ### Github Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Weezity&count_private=true&theme=dark)
