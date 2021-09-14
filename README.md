@@ -1,9 +1,7 @@
 ## My name is [Matthew](http://matthewl.xyz)! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">!
 
 ### Info About Me
-- <img align="center" alt="UHS" height = "30px" src = "https://raw.githubusercontent.com/Weezity/Weezity/master/Unionville.png">  High School student Unionville High School
-- <img align="center" alt="Code Club" height = "30px" src = "https://raw.githubusercontent.com/Weezity/Weezity/master/CC.png"> Code Club Instructor/Leader
-- <img align="center" alt="DMA" height = "30px" src = "https://raw.githubusercontent.com/Weezity/Weezity/master/Digital.png"> Digital Media Academy (DMA) participant
+
 <br/>
 
 - 💻 Webapp/ Full stack Development | 🤖 Machine Learning/ 📊 Data science 
