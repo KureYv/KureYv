@@ -12,7 +12,7 @@
 ### Connect with me:
 [<img align="left" alt="LinkedIn" height = "24px" src = "https://raw.githubusercontent.com/Weezity/Weezity/master/linkedin.png">](https://www.linkedin.com/in/matthew-lee-637515168/)
 [<img align="left" alt="Gmail" height = "24px" src = "https://raw.githubusercontent.com/Weezity/Weezity/master/gmail.png">](mailto:matthewlee031205@gmail.com/)
-[<img align="left" alt="Instagram" height = "24px" src = "https://raw.githubusercontent.com/Weezity/Weezity/master/instagram.png">](https://www.instagram.com/matthew.l.05/?hl=en)
+[<img align="left" alt="Instagram" height = "24px" src = "https://raw.githubusercontent.com/Weezity/Weezity/master/instagram.png">](https://www.instagram.com/wz.l.05/?hl=en)
 [<img align="left" alt="StackOverflow" height = "24px" src = "https://raw.githubusercontent.com/Weezity/Weezity/master/stackoverflow.png">](https://stackoverflow.com/users/12462726/matthew-lee)
 
 
