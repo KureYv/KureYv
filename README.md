@@ -1,4 +1,4 @@
-## My name is [Matthew](http://matthewl.xyz)! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">!
+## My name is [Matthew](http://matthewl.xyz)! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 ### Info About Me
 
