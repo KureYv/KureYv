@@ -4,7 +4,7 @@
 
 <br/>
 
-- 💻 Full stack Development | 🤖 Machine Learning | 📊 Data science 
+- 💻 Full stack Development | 📚 Machine Learning | 📊 Data science | 🤖 Robotics 
 - 💬 Issues or problems go [here](https://github.com/Weezity/Weezity/issues)
 
 ----
