@@ -4,7 +4,7 @@
 
 <br/>
 
-- 💻 Full stack Development | 📚 Machine Learning | 📊 Data science | 🤖 Robotics 
+- 💻 Full stack Development | 📚 Machine Learning
 - 💬 Issues or problems go [here](https://github.com/KureYv/KureYv/issues)
 
 ----
