@@ -4,7 +4,7 @@
 
 <br/>
 
-- 💻 Full stack Development |🤖 Machine Learning
+- My interests are: 💻 Full stack Development |🤖 Machine Learning
 - 💬 Issues or problems go [here](https://github.com/KureYv/KureYv/issues)
 
 ----
