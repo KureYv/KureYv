@@ -45,7 +45,7 @@
   <picture>
     <source 
         srcset="https://streak-stats.demolab.com/?user=KureYv&theme=dark"
-        media="(prefers-color-scheme: no-preference), (prefers-color-scheme: light), (prefers-color-scheme: dark)"
+        media="(prefers-color-scheme: dark)"
       />
     <img src="https://github-readme-stats.vercel.app/api?username=KureYv&show_icons=true" />
   </picture>
