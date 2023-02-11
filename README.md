@@ -17,14 +17,10 @@
 <br/>
 <details><summary>More details</summary>
 
-### Github Stats
 
-![Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KureYv&count_private=true&theme=dark)
+  ### <p align=center>Github Stats, languages and tools I use</p>
   <br/>
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KureYv&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-----
-### Languages and Tools: 
+  <p align = "center">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/java.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/pycharm.svg"></code>
@@ -33,6 +29,29 @@
 <code><img height="20" src="https://cdn.svgporn.com/logos/jupyter.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/intellij-idea.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
+  </p>
+  
+
+  
+<p align="center">
+  
+  <picture>
+    <source 
+        srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KureYv&count_private=true&theme=dark"
+      />
+    <img src="https://github-readme-stats.vercel.app/api?username=KureYv&show_icons=true" />
+  </picture>
+  <picture>
+    <source 
+        srcset="https://streak-stats.demolab.com/?user=KureYv&theme=dark"
+      />
+    <img src="https://github-readme-stats.vercel.app/api?username=KureYv&show_icons=true" />
+  </picture>
+    
+  </picture>
+  </p>
+
+
   
 </details>
 
