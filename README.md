@@ -38,7 +38,7 @@
   <picture>
     <source 
         srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KureYv&count_private=true&theme=dark"
-        media="(prefers-color-scheme: no-preference), (prefers-color-scheme: light), (prefers-color-scheme: dark)"
+        media="(prefers-color-scheme: dark)"
       />
     <img src="https://github-readme-stats.vercel.app/api?username=KureYv&show_icons=true" />
   </picture>
