@@ -15,7 +15,7 @@
 [<img align="left" alt="Instagram" height = "24px" src = "https://raw.githubusercontent.com/KureYv/KureYv/master/instagram.png">](https://www.instagram.com/wz.l.05/?hl=en)
 [<img align="left" alt="StackOverflow" height = "24px" src = "https://raw.githubusercontent.com/KureYv/KureYv/master/stackoverflow.png">](https://stackoverflow.com/users/12462726/matthew-lee)
 <br/>
-<details><summary>More details</summary>
+<details><summary>⇋More details</summary>
 
 
 ----
@@ -35,22 +35,11 @@
 
 
 ### Github Stats
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=KureYv&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=KureYv&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-  <p align="center">
+
 ![Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KureYv&count_private=true&theme=dark)
   <br/>
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KureYv&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  </p>
+
 
 ----
 </details>
