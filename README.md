@@ -16,9 +16,6 @@
 [<img align="left" alt="StackOverflow" height = "24px" src = "https://raw.githubusercontent.com/KureYv/KureYv/master/stackoverflow.png">](https://stackoverflow.com/users/12462726/matthew-lee)
 <br/>
 <details><summary>More details</summary>
-### a
-----
-
 
 ### Github Stats
 
