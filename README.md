@@ -4,7 +4,7 @@
 
 <br/>
 
-- My interests are: 💻 Full stack Development |🤖 Machine Learning
+- I am a second year Computer Science Student at [Ontario Tech University](https://ontariotechu.ca/), I have done robotics, full stack development, machine learning and competitive programming in my spare time. I am also very passionate and open about learning new things, which is why I spend a lot of my free time learning new stuff.
 - 💬 Issues or problems go [here](https://github.com/KureYv/KureYv/issues)
 
 ----
