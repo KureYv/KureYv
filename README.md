@@ -14,9 +14,9 @@
 [<img align="left" alt="Gmail" height = "24px" src = "https://raw.githubusercontent.com/KureYv/KureYv/master/gmail.png">](mailto:matthewlee031205@gmail.com/)
 [<img align="left" alt="Instagram" height = "24px" src = "https://raw.githubusercontent.com/KureYv/KureYv/master/instagram.png">](https://www.instagram.com/wz.l.05/?hl=en)
 [<img align="left" alt="StackOverflow" height = "24px" src = "https://raw.githubusercontent.com/KureYv/KureYv/master/stackoverflow.png">](https://stackoverflow.com/users/12462726/matthew-lee)
-
-<details><summary>Press me for more details!</summary>Peek a boo!</details>
 <br/>
+<details><summary>Press me for more details!</summary>
+
 
 ----
 
@@ -42,6 +42,6 @@
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KureYv&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ----
-
+</details>
 
 
