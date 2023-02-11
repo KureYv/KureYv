@@ -23,7 +23,7 @@
 
 ![Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KureYv&count_private=true&theme=dark)
   <br/>
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KureYv&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KureYv&layout=compact&theme=dark)
 
 ----
 ### Languages and Tools: 
