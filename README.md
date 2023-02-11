@@ -38,14 +38,14 @@
   <picture>
     <source 
         srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KureYv&count_private=true&theme=dark"
-        media="(prefers-color-scheme: no-preference)"
+        media="(prefers-color-scheme: no-preference), (prefers-color-scheme: dark), (prefers-color-scheme: light)"
       />
     <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
   </picture>
   <picture>
     <source 
         srcset="https://streak-stats.demolab.com/?user=KureYv&theme=dark"
-        media="(prefers-color-scheme: no-preference)"
+        media="(prefers-color-scheme: no-preference), (prefers-color-scheme: dark), (prefers-color-scheme: light)"
       />
     <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
   </picture>
