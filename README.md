@@ -45,7 +45,7 @@
     <source 
         srcset="https://streak-stats.demolab.com/?user=KureYv&theme=dark"
       />
-    <img src="https://github-readme-stats.vercel.app/api?username=KureYv&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
   </picture>
     
   </picture>
